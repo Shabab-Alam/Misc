@@ -1,3 +1,3 @@
 # Misc
-# This is a misc repo wherein I may post special/tricky peieces of C code
-# Comments and requests are welcome
+# This is a mics repository wherein you might find small pieces of tricky codes...
+# Comments and resuests are welcome
